@@ -1,11 +1,8 @@
+##### 
 
-```
-python3 -m venv myvenv
-source myvenv/bin/activate
-pip install -r requirements.txt
-```
 
-ui
+
+##### reference
 ```
-http://54.87.133.19:3000
+https://www.youtube.com/watch?v=H_rRlnSw_5s&t=234s
 ```
